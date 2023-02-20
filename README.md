@@ -2,7 +2,7 @@
 
 Localized temperature anomaly via famous "climate stripes" visualization... 
 
-!(https://github.com/sharath-rered/VA-climate-stripes/blob/main/NORTH_AMERICA-USA-Virginia-1895-2021-NO-withlabels.png)
+![](https://github.com/sharath-rered/VA-climate-stripes/blob/main/NORTH_AMERICA-USA-Virginia-1895-2021-NO-withlabels.png)
 
 ...and bar graph version with scale.
 ![Stripes 1](https://github.com/sharath-rered/VA-climate-stripes/blob/main/NORTH_AMERICA-USA-Virginia-1895-2021-NO-barslabel.png)
